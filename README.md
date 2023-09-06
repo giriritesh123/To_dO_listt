@@ -18,3 +18,7 @@ JavaScript<br>
 
 ### Author
 [Ritesh Giri]
+
+
+![image](https://github.com/giriritesh123/To_do_list/assets/139381504/0f40a154-21ce-48c8-a93d-0ba596e7bf62)
+
